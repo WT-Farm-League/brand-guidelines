@@ -47,7 +47,7 @@
 
 ### Secondary (lettermark)
 
-<img src="png/logo_secondary_lettermark.png" width="400">
+<img src="png/logo_secondary_lettermark.png" height="113">
 
 - [Secondary (lettermark)](eps/logo_secondary_lettermark.eps) (eps)
 - [Secondary (lettermark)](png/logo_secondary_lettermark.png) (png)
@@ -56,7 +56,7 @@
 
 ### Secondary (lettermark disc)
 
-<img src="png/logo_secondary_lettermark_disc.png" width="400">
+<img src="png/logo_secondary_lettermark_disc.png" height="113">
 
 - [Secondary (lettermark disc)](eps/logo_secondary_lettermark_disc.eps) (eps)
 - [Secondary (lettermark disc)](png/logo_secondary_lettermark_disc.png) (png)
@@ -65,7 +65,7 @@
 
 ### Cross emblem
 
-<img src="png/logo_emblem_cross.png" width="400">
+<img src="png/logo_emblem_cross.png" height="113">
 
 - [Cross emblem](eps/logo_emblem_cross.eps) (eps)
 - [Cross emblem](png/logo_emblem_cross.png) (png)
@@ -74,7 +74,7 @@
 
 ### Cow face
 
-<img src="png/logo_cow_face.png" width="400">
+<img src="png/logo_cow_face.png" height="113">
 
 - [Cow face](eps/logo_cow_face.eps) (eps)
 - [Cow face](png/logo_cow_face.png) (png)
@@ -83,7 +83,7 @@
 
 ### Cow face (reverse)
 
-<img src="png/logo_cow_face_reverse.png" width="400">
+<img src="png/logo_cow_face_reverse.png" height="113">
 
 - [Cow face (reverse)](eps/logo_cow_face_reverse.eps) (eps)
 - [Cow face (reverse)](png/logo_cow_face_reverse.png) (png)
